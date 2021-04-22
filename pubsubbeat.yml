@@ -1,6 +1,6 @@
 ################### Pubsubbeat Configuration Example #########################
 
-############################# Pubsubbeat ######################################
+############################# Pubsubbeat #####################################
 
 pubsubbeat:
   # The service account or refresh token JSON credentials file to use
